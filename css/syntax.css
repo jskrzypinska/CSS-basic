@@ -1,12 +1,17 @@
-#header {
-    position: absolute;
-    top: 0;
-    left: 0;
+h2 {
+    font-size: 24px;
 }
 
-#header h1 {
-    font-size: 32px;
+#content-header {
+    font-size: 18px;
+    color: red;
 }
-p {
-    font-size: 12px;
+
+span {
+    display: block;
+    color: blue;
+}
+
+.deck {
+    color: red;
 }
